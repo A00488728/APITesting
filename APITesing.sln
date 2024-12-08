@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITesing.Server", "APITesing.Server\APITesing.Server.csproj", "{EF98AC95-DC3F-4265-A05B-D65A388E3F8B}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "apitesing.client", "apitesing.client\apitesing.client.esproj", "{F166016D-47FB-4A6A-A41A-0FBDA0617159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF98AC95-DC3F-4265-A05B-D65A388E3F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF98AC95-DC3F-4265-A05B-D65A388E3F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF98AC95-DC3F-4265-A05B-D65A388E3F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF98AC95-DC3F-4265-A05B-D65A388E3F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F166016D-47FB-4A6A-A41A-0FBDA0617159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F166016D-47FB-4A6A-A41A-0FBDA0617159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F166016D-47FB-4A6A-A41A-0FBDA0617159}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F166016D-47FB-4A6A-A41A-0FBDA0617159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F166016D-47FB-4A6A-A41A-0FBDA0617159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F166016D-47FB-4A6A-A41A-0FBDA0617159}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCCB777-F068-453B-ABB2-196D2DE05402}
+	EndGlobalSection
+EndGlobal

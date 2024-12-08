@@ -1,0 +1,6 @@
+@APITesing.Server_HostAddress = http://localhost:5063
+
+GET {{APITesing.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
